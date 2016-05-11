@@ -1,4 +1,4 @@
-//Clothing Slider Centering
+// Clothing Slider Centering
 
 $(window).load(function(){
     var windowH = $(window).height();

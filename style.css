@@ -9,16 +9,20 @@ body {
 	padding:0;
 }
 
+.top-container{
+	padding-bottom: 20px;
+}
+
+.bottom-container{
+	padding-top: 20px;
+}
+
 .swiper-2{
-	height:250px;
+	height:200px;
 }
 
 .swiper-3{
-	height:250px;
-}
-
-#clothing-container{
-	border:2px solid red;
+	height:200px;
 }
 
 
@@ -60,7 +64,8 @@ body {
 	overflow: hidden;
 	display:block;
 	margin: auto;
-	width:40%;
+	width: 55%;
 	height: auto;
+
 }
 
