@@ -1,3 +1,9 @@
+ul {
+	list-style: none;
+	margin:0;
+	padding:0;
+}
+
 body {
 	margin:0;
 	padding:0;
@@ -5,13 +11,16 @@ body {
 
 .swiper-2{
 	height:250px;
-	padding-top: 30px;
 }
 
 .swiper-3{
 	height:250px;
-	padding-bottom: 30px;
 }
+
+#clothing-container{
+	border:2px solid red;
+}
+
 
 .clothing-label{
 	color:yellow;
@@ -44,6 +53,7 @@ body {
 
 .clothing{
 	background-color: black;
+	border:2px solid red;
 }
 
 .clothing-slide img{
